@@ -4,6 +4,8 @@ Quake Report+ App
 This app displays a list of recent earthquakes in the world
 from the U.S. Geological Survey (USGS) organization.
 
+![Screenshot](http://i.imgur.com/ZcHngqI.png) ![Screenshot](http://imgur.com/SW6kwiT.png) ![Screenshot](http://imgur.com/K5c8vlY.png)
+
 More info on the USGS Earthquake API available at:
 http://earthquake.usgs.gov/fdsnws/event/1/
 
